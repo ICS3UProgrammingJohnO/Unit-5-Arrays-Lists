@@ -1,0 +1,10 @@
+C:\Users\mails\source\repos\MinValueJohnO\MinValueJohnO\bin\Debug\MinValueJohnO.exe.config
+C:\Users\mails\source\repos\MinValueJohnO\MinValueJohnO\bin\Debug\MinValueJohnO.exe
+C:\Users\mails\source\repos\MinValueJohnO\MinValueJohnO\bin\Debug\MinValueJohnO.pdb
+C:\Users\mails\source\repos\MinValueJohnO\MinValueJohnO\obj\Debug\MinValueJohnO.csprojAssemblyReference.cache
+C:\Users\mails\source\repos\MinValueJohnO\MinValueJohnO\obj\Debug\MinValueJohnO.frmMinValue.resources
+C:\Users\mails\source\repos\MinValueJohnO\MinValueJohnO\obj\Debug\MinValueJohnO.Properties.Resources.resources
+C:\Users\mails\source\repos\MinValueJohnO\MinValueJohnO\obj\Debug\MinValueJohnO.csproj.GenerateResource.cache
+C:\Users\mails\source\repos\MinValueJohnO\MinValueJohnO\obj\Debug\MinValueJohnO.csproj.CoreCompileInputs.cache
+C:\Users\mails\source\repos\MinValueJohnO\MinValueJohnO\obj\Debug\MinValueJohnO.exe
+C:\Users\mails\source\repos\MinValueJohnO\MinValueJohnO\obj\Debug\MinValueJohnO.pdb
