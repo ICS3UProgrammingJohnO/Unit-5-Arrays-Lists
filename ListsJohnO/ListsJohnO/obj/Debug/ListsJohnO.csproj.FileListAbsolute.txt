@@ -1,0 +1,10 @@
+C:\Users\mails\source\repos\ListsJohnO\ListsJohnO\bin\Debug\ListsJohnO.exe.config
+C:\Users\mails\source\repos\ListsJohnO\ListsJohnO\bin\Debug\ListsJohnO.exe
+C:\Users\mails\source\repos\ListsJohnO\ListsJohnO\bin\Debug\ListsJohnO.pdb
+C:\Users\mails\source\repos\ListsJohnO\ListsJohnO\obj\Debug\ListsJohnO.csprojAssemblyReference.cache
+C:\Users\mails\source\repos\ListsJohnO\ListsJohnO\obj\Debug\ListsJohnO.frmLists.resources
+C:\Users\mails\source\repos\ListsJohnO\ListsJohnO\obj\Debug\ListsJohnO.Properties.Resources.resources
+C:\Users\mails\source\repos\ListsJohnO\ListsJohnO\obj\Debug\ListsJohnO.csproj.GenerateResource.cache
+C:\Users\mails\source\repos\ListsJohnO\ListsJohnO\obj\Debug\ListsJohnO.csproj.CoreCompileInputs.cache
+C:\Users\mails\source\repos\ListsJohnO\ListsJohnO\obj\Debug\ListsJohnO.exe
+C:\Users\mails\source\repos\ListsJohnO\ListsJohnO\obj\Debug\ListsJohnO.pdb
