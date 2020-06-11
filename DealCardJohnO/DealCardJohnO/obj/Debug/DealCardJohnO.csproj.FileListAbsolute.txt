@@ -1,0 +1,10 @@
+C:\Users\mails\source\repos\DealCardJohnO\DealCardJohnO\bin\Debug\DealCardJohnO.exe.config
+C:\Users\mails\source\repos\DealCardJohnO\DealCardJohnO\bin\Debug\DealCardJohnO.exe
+C:\Users\mails\source\repos\DealCardJohnO\DealCardJohnO\bin\Debug\DealCardJohnO.pdb
+C:\Users\mails\source\repos\DealCardJohnO\DealCardJohnO\obj\Debug\DealCardJohnO.csprojAssemblyReference.cache
+C:\Users\mails\source\repos\DealCardJohnO\DealCardJohnO\obj\Debug\DealCardJohnO.frmDealCard.resources
+C:\Users\mails\source\repos\DealCardJohnO\DealCardJohnO\obj\Debug\DealCardJohnO.Properties.Resources.resources
+C:\Users\mails\source\repos\DealCardJohnO\DealCardJohnO\obj\Debug\DealCardJohnO.csproj.GenerateResource.cache
+C:\Users\mails\source\repos\DealCardJohnO\DealCardJohnO\obj\Debug\DealCardJohnO.csproj.CoreCompileInputs.cache
+C:\Users\mails\source\repos\DealCardJohnO\DealCardJohnO\obj\Debug\DealCardJohnO.exe
+C:\Users\mails\source\repos\DealCardJohnO\DealCardJohnO\obj\Debug\DealCardJohnO.pdb
