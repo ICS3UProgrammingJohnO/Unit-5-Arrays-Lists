@@ -1,0 +1,10 @@
+C:\Users\mails\source\repos\MaxValueJohnO\MaxValueJohnO\bin\Debug\MaxValueJohnO.exe.config
+C:\Users\mails\source\repos\MaxValueJohnO\MaxValueJohnO\bin\Debug\MaxValueJohnO.exe
+C:\Users\mails\source\repos\MaxValueJohnO\MaxValueJohnO\bin\Debug\MaxValueJohnO.pdb
+C:\Users\mails\source\repos\MaxValueJohnO\MaxValueJohnO\obj\Debug\MaxValueJohnO.csprojAssemblyReference.cache
+C:\Users\mails\source\repos\MaxValueJohnO\MaxValueJohnO\obj\Debug\MaxValueJohnO.frmMaxValue.resources
+C:\Users\mails\source\repos\MaxValueJohnO\MaxValueJohnO\obj\Debug\MaxValueJohnO.Properties.Resources.resources
+C:\Users\mails\source\repos\MaxValueJohnO\MaxValueJohnO\obj\Debug\MaxValueJohnO.csproj.GenerateResource.cache
+C:\Users\mails\source\repos\MaxValueJohnO\MaxValueJohnO\obj\Debug\MaxValueJohnO.csproj.CoreCompileInputs.cache
+C:\Users\mails\source\repos\MaxValueJohnO\MaxValueJohnO\obj\Debug\MaxValueJohnO.exe
+C:\Users\mails\source\repos\MaxValueJohnO\MaxValueJohnO\obj\Debug\MaxValueJohnO.pdb
