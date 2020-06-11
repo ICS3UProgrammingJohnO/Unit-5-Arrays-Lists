@@ -1,0 +1,10 @@
+C:\Users\mails\source\repos\ArraysJohnO\ArraysJohnO\bin\Debug\ArraysJohnO.exe.config
+C:\Users\mails\source\repos\ArraysJohnO\ArraysJohnO\bin\Debug\ArraysJohnO.exe
+C:\Users\mails\source\repos\ArraysJohnO\ArraysJohnO\bin\Debug\ArraysJohnO.pdb
+C:\Users\mails\source\repos\ArraysJohnO\ArraysJohnO\obj\Debug\ArraysJohnO.csprojAssemblyReference.cache
+C:\Users\mails\source\repos\ArraysJohnO\ArraysJohnO\obj\Debug\ArraysJohnO.frmArrayAverage.resources
+C:\Users\mails\source\repos\ArraysJohnO\ArraysJohnO\obj\Debug\ArraysJohnO.Properties.Resources.resources
+C:\Users\mails\source\repos\ArraysJohnO\ArraysJohnO\obj\Debug\ArraysJohnO.csproj.GenerateResource.cache
+C:\Users\mails\source\repos\ArraysJohnO\ArraysJohnO\obj\Debug\ArraysJohnO.csproj.CoreCompileInputs.cache
+C:\Users\mails\source\repos\ArraysJohnO\ArraysJohnO\obj\Debug\ArraysJohnO.exe
+C:\Users\mails\source\repos\ArraysJohnO\ArraysJohnO\obj\Debug\ArraysJohnO.pdb
